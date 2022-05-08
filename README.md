@@ -15,6 +15,8 @@ Experimental results show that the model has a good effect on the identification
   year={2016}
 }
 
+Shout out to @Thomas Kipf
+
 ## Installation
 
 ```python setup.py install```
